@@ -5,3 +5,4 @@ packages/
 *.user
 *.suo
 *.nupkg
+*.pfx
